@@ -1,3 +1,5 @@
+# [v0.7.0] - 08-04-2026
+**Full Changelog**: https://github.com/robertomiranda/what_you_say/commits/v0.7.0
 # [v0.7.0] - 07-04-2026
 ## What's Changed
 * Bump lingua from 1.7.2 to 1.8.0 by @dependabot[bot] in https://github.com/gjtorikian/what_you_say/pull/41
